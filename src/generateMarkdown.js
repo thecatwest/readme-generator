@@ -33,11 +33,10 @@ function generateMarkdown(data) {
 
 <!-- Project Table of Contents -->
 <details>
-  <summary>
   <h2 class="display-inline-block">Description</h2>
+  ${data.projectDescription}
 
-    ${data.projectDescription}
-
+  <summary>
   <h2 class="display-inline-block">Table of Contents</h2>
   </summary>
   <ul>
