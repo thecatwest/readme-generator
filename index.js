@@ -110,11 +110,21 @@ const readmeQuestions = (readmeAnswers) => {
     ])
 };
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
 
-// TODO: Create a function to initialize app
-function init() {}
+readmeQuestions()
+.then((readmeAnswers) => {
+    console.log(readmeAnswers);
+    const finalReadme = generateReadme(readmeAnswers);
 
-// Function call to initialize app
-init();
+    // TODO: create function to write README file
+    fs.writeFile('./src/README.md', finalReadme, err => {
+        if (err) {
+            console.log(error)
+            return
+        } else {
+            console.log('New project README.md generated. Review README.md file to view output.');
+        }
+        // file written
+    });
+});
+
