@@ -24,6 +24,8 @@
 
 ![readme_generator_ss_2](https://user-images.githubusercontent.com/76404552/118418007-7f64cb00-b66b-11eb-9ae7-16c556238a7e.png)
 
+https://user-images.githubusercontent.com/76404552/118418332-e8007780-b66c-11eb-9d05-eeacbb47edf6.mp4
+
 Anyone may use this app.
 
 https://github.com/thecatwest/readme-generator
