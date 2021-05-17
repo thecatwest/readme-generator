@@ -20,7 +20,9 @@
 <!-- About Project Section -->
 ## About The Project
 
-https://user-images.githubusercontent.com/76404552/118417832-c1414180-b66a-11eb-8a86-fec337599099.png
+![readme_generator_ss_1](https://user-images.githubusercontent.com/76404552/118417832-c1414180-b66a-11eb-8a86-fec337599099.png)
+
+![readme_generator_ss_2](https://user-images.githubusercontent.com/76404552/118418007-7f64cb00-b66b-11eb-9ae7-16c556238a7e.png)
 
 Anyone may use this app.
 
