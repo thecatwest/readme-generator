@@ -4,7 +4,7 @@
 <!-- Project Table of Contents -->
 <details>
   <h2 class="display-inline-block">Description</h2>
-  This app generates a professional-grade README.md.
+  This app generates a professional README.md file for projects.
 
   <summary>
   <h2 class="display-inline-block">Table of Contents</h2>
@@ -20,33 +20,33 @@
 <!-- About Project Section -->
 ## About The Project
 
-Enter URLs here
+https://user-images.githubusercontent.com/76404552/118417832-c1414180-b66a-11eb-8a86-fec337599099.png
 
-Anyone may use this project
+Anyone may use this app.
 
-www.github.com/link
+https://github.com/thecatwest/readme-generator
 
 <h5 class="text-dark">
-&copy; 2021 by Student
+&copy; 2021 by Cat Westover
 </h5>
 
 Project Technologies:
 
-ES6,JavaScript,Node
+ES6,JavaScript,Node,Other
 
 <!-- Installation -->
 ## Installation
 
-Install node.js
+Install Node.js
 
 <!-- Inquiries -->
 ## Inquiries
 
-GitHub Username: Random_User
+GitHub Username: thecatwest
 
-Name: Student
+Name: Cat Westover
 
-email: random@gmail.com
+email: catwestover@outlook.com
 
 ## License
     Project licensed under undefined
